@@ -1,6 +1,6 @@
 # Object Detection and Tracking System using YOLO v8
 <h3>Overview</h3>
-This project focuses on developing a state-of-the-art object detection and tracking system leveraging the YOLO v8 model. Designed to identify and track multiple objects in real-time, the system achieves over 95% accuracy and processes video at 30 frames per second (FPS). The project utilizes diverse datasets to ensure robust performance and broad applicability.
+This project focuses on developing a state-of-the-art object detection and tracking system leveraging the YOLO v8 model. Designed to identify and track multiple objects in real-time, the system achieves over 75% accuracy and processes video at 30 frames per second (FPS). The project utilizes diverse datasets to ensure robust performance and broad applicability.
 <br><br>
 <b>Model Specifications</b>: We used YOLOv8-Medium architecture consisting of 295 layers and 25,902,640 parameters. ​
 
